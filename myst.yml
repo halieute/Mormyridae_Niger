@@ -30,9 +30,7 @@ site:
     favicon: images/favicon.ico
     logo: images/logo.png
   nav:
-    - title: Open in Colab
-      url: https://colab.research.google.com/github/giswqs/myst-demo
-    - title: Installed Builder
-      url: https://mybinder.org/v2/gh/giswqs/myst-demo/main
-    - title: GitHub
-      url: https://github.com/giswqs/myst-demo
+    - title: Open Science
+      url: https://openscience.gishub.org
+    - title: MyST
+      url: https://mystmd.org
